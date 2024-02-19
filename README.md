@@ -11,8 +11,6 @@ This repository is the culmination of the "Compilers" course on my 4th semester 
 - **🧩 Syntactic Analysis:** Parser for syntax analysis.
 - **🖥️ Java Swing Interface:** User-friendly GUI for interaction.
 
-## Getting Started
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/compiler-project.git
+## Contributors 🤓
+ - ** Guilherme Moll Silva
+ - ** Patrick Antunes
